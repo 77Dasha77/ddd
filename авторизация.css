@@ -84,6 +84,7 @@ input {
       background-size: cover;
       background-position: center;
       position: relative; /* Для позиционирования дочерних элементов */
+      font-family: 'Comic Sans MS';
     }
   
   .text {
@@ -91,6 +92,7 @@ input {
     font-size: 45px;
     text-align: center;
     color: hsl(147, 97%, 13%);
+    font-family: 'Comic Sans MS';
   }
   
     @media (max-width: 400px) {
@@ -101,6 +103,7 @@ input {
         background-size: cover;
         background-position: center;
         position: relative; /* Для позиционирования дочерних элементов */
+        font-family: 'Comic Sans MS';
       }
     
       .text {
@@ -108,6 +111,7 @@ input {
         font-size: 25px;
         text-align: center;
         color: hsl(147, 97%, 13%);
+        font-family: 'Comic Sans MS';
       }
       
       .input-container {
