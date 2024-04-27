@@ -87,7 +87,7 @@ input {
     }
   
   .text {
-    transform: translate(0%, 170%);
+    transform: translate(0%, 200%);
     font-size: 45px;
     text-align: center;
     color: hsl(147, 97%, 13%);
