@@ -93,7 +93,7 @@ input {
     }
   
   .text {
-    transform: translate(0%, 210%);
+    transform: translate(0%, 170%);
     font-size: 45px;
     text-align: center;
     color: hsl(147, 97%, 13%);
@@ -110,7 +110,7 @@ input {
       }
     
       .text {
-        transform: rotate(90deg) translate(80%, -210%);
+        transform: rotate(90deg) translate(80%, -180%);
         font-size: 25px;
         text-align: center;
         color: hsl(147, 97%, 13%);
